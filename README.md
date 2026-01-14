@@ -1,5 +1,3 @@
-# storm
-snowhack
 <!DOCTYPE html>
 <html lang="en">
 <head>
